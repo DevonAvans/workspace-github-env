@@ -1,0 +1,32 @@
+# Class 
+.class
+
+# Classpath
+.classpath
+
+# Logs
+logs
+*.log
+
+# Ignore VSCode
+.vscode/
+.vs/
+
+# Git
+.git
+
+# Eclipse
+.metadata
+.settings/
+
+bin/
+tmp/
+dist/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+
