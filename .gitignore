@@ -19,6 +19,9 @@ logs
 .metadata
 .settings/
 
+# Config
+**/database.properties
+
 bin/
 tmp/
 dist/

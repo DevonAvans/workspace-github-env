@@ -1,9 +1,14 @@
 package project_name;
 
-public class Main {
+import controller.Controller;
 
-	public static void main(String[] args) {
-		System.out.println("test");
+//import java.io.FileReader;
+//import java.util.Properties;
+
+public class Main {
+	
+	public static void main(String[] args) {		
+		new Controller().startup(args);
 	}
 	
 }
